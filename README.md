@@ -16,7 +16,7 @@ A beginner-friendly inventory app built with MongoDB, Express, React, and Node.j
 ## 1. Start the backend
 Open a terminal in `server`:
 ```bash
-npm install
+
 ```
 
 Copy `.env.example` to `.env`, then check `MONGO_URI`.
